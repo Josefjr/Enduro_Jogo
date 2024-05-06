@@ -1,0 +1,7 @@
+"Este jogo foi desenvolvido como parte de um projeto de estudo e aprendizado em programação. Criado com HTML, CSS e JavaScript, o objetivo principal era explorar os conceitos de desenvolvimento de jogos e a interação entre diferentes elementos da web.
+
+É importante ressaltar que este projeto não tem fins comerciais e não está disponível para comercialização. Ele foi concebido exclusivamente para fins educacionais, como uma maneira de praticar habilidades de programação e aprofundar o conhecimento em desenvolvimento web.
+
+Além disso, vale destacar que os direitos do jogo ENDURO do Atari pertencem exclusivamente à Activision. Eu possuo o jogo físico original, o que contribuiu para a inspiração por trás deste projeto, mas este jogo criado não tem relação comercial com a franquia oficial.
+
+Portanto, este jogo não está à venda e não há planos para distribuição comercial. Ele permanece como um exercício de aprendizado e uma prova do progresso alcançado no domínio das tecnologias da web."
